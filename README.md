@@ -6,7 +6,7 @@ Desenvolvedor Fullstack em formação, apaixonado por tecnologia e por criar sol
 
 ---
 
-## 🚀 Stacks
+## Stacks
 
 <div align="left">
 
@@ -16,25 +16,8 @@ Desenvolvedor Fullstack em formação, apaixonado por tecnologia e por criar sol
 
 ---
 
-## 📊 Estatísticas
 
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoRodriguesqtw&show_icons=true&theme=gotham&hide_border=true&locale=pt-br"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRodriguesqtw&layout=compact&theme=gotham&hide_border=true&locale=pt-br"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoaoRodriguesqtw&theme=gotham&hide_border=true"/>
-
-</div>
-
----
-
-## 📂 Projects
+## Projects
 
 ### 📂 CRUD em Python (CLI)
 
