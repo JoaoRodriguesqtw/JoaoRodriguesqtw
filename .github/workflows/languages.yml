@@ -1,35 +1,32 @@
-name: Generate languages card
+name: Generate Top Languages
 
 on:
   schedule:
-    - cron: "* */12 * * *"
-
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
-      - name: Generate languages.svg
+      - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true
+          options: username=${{ github.repository_owner }}&locale=pt-br&layout=compact&theme=tokyonight&hide_border=true
           path: dist/languages.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push languages.svg to output branch
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: languages-output
           publish_dir: ./dist
-          force_orphan: true
