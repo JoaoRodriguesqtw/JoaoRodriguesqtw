@@ -27,14 +27,6 @@ Aplicação desenvolvida em **Python** utilizando interface de linha de comando 
 
 ---
 
-### 🤖 Bot para Discord
-
-Bot desenvolvido em **Python** como projeto de estudos para explorar a automação no Discord. O projeto permitiu aprender sobre integração com a biblioteca **discord.py**, criação de comandos, tratamento de eventos, uso de variáveis de ambiente e interação com APIs, servindo como base para futuros projetos mais completos.
-
-**Tecnologias:** Python • Discord.py
-
----
-
 ## 🐍 Contribuições
 
 <div align="center">
