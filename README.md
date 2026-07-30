@@ -1,7 +1,7 @@
 <h1 align="left">Olá! Me chamo João Rodrigues 👋</h1>
 
 <p align="left">
-Desenvolvedor Fullstack em formação, apaixonado por tecnologia e por criar soluções que resolvem problemas reais. Atualmente estudando JavaScript, Node.js e expandindo meus conhecimentos em desenvolvimento de software.
+Desenvolvedor Fullstack em formação, apaixonado por tecnologia. Atualmente estudando JavaScript, Node.js e expandindo meus conhecimentos em desenvolvimento de software.
 </p>
 
 ---
