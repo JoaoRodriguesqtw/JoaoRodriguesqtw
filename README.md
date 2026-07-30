@@ -27,7 +27,7 @@ Aplicação desenvolvida em **Python** utilizando interface de linha de comando 
 
 ---
 
-## 🐍 Contribuições
+## 🐍 contributions
 
 <div align="center">
 
