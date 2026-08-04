@@ -19,7 +19,7 @@ Desenvolvedor Fullstack em formação, apaixonado por tecnologia. Atualmente est
 
 ## Projects
 
-### 📂 CRUD em Python (CLI)
+### CRUD em Python (CLI)
 
 Aplicação desenvolvida em **Python** utilizando interface de linha de comando (CLI), criada com o objetivo de praticar os fundamentos da programação. O projeto implementa as operações de **Create, Read, Update e Delete (CRUD)**, reforçando conceitos como funções, estruturas condicionais, encapsulamento, organização de código e manipulação de dados.
 
@@ -27,7 +27,7 @@ Aplicação desenvolvida em **Python** utilizando interface de linha de comando 
 
 ---
 
-## 🐍 contributions
+## contributions
 
 <div align="center">
 
