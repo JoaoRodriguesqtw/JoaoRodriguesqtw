@@ -10,7 +10,7 @@ Desenvolvedor Fullstack em formação, apaixonado por tecnologia. Atualmente est
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,mysql,git,github,figma" />
 
 </div>
 
@@ -24,6 +24,12 @@ Desenvolvedor Fullstack em formação, apaixonado por tecnologia. Atualmente est
 Aplicação desenvolvida em **Python** utilizando interface de linha de comando (CLI), criada com o objetivo de praticar os fundamentos da programação. O projeto implementa as operações de **Create, Read, Update e Delete (CRUD)**, reforçando conceitos como funções, estruturas condicionais, encapsulamento, organização de código e manipulação de dados.
 
 **Tecnologias:** Python
+
+### Banco de Dados - Clínica Veterinária
+
+Banco de dados relacional desenvolvido em **MariaDB**, com apoio do **DBeaver**, para organizar o funcionamento de uma clínica veterinária. O projeto modela clientes, animais, veterinários, consultas, medicamentos, prescrições e exames, e reúne conceitos como **chaves estrangeiras**, **relacionamentos entre tabelas**, **consultas com JOIN, GROUP BY e subconsultas** e **triggers** para validação de dados, como o bloqueio de CRMV duplicado e a proteção de resultados de exames já lançados.
+
+**Tecnologias:** SQL, MariaDB, DBeaver
 
 ---
 
